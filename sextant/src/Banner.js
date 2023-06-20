@@ -6,7 +6,7 @@ class Banner extends Component{
         return(
             <div className="banner">
                 <h1>{this.props.bannerText}</h1>
-                <h3>Find your way</h3>
+                <h3>Get you IP Address</h3>
             </div>
         )
     }
